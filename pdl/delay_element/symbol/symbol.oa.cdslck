@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      alyssaw
+HostName                       eeapps02.seas.ucla.edu
+ProcessIdentifier              11050
+ProcessCreationTime_UTC        1646111454
+ProcessCreationTime_Readable   Mon Feb 28 21:10:54 2022 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.23/cs/ugrad/alyssaw/ee115c/programmable-delay-line/pdl/delay_element/symbol/symbol.oa.cdslck
+TimeEditLocked                 Mon Feb 28 21:28:46 2022 PST
