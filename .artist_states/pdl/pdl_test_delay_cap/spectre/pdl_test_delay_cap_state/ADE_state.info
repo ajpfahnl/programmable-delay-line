@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("pdl" "pdl_test_delay_cap" "schematic" "spectre")
+descriptionText = "None"
